@@ -17,6 +17,10 @@ ip:port:user:pass
 ```bash
 interlink.exe
 ```
+Runing in linux
+```bash
+./interlink
+```
 
 ### Support
 For support, contact: [@tunankies](https://t.me/tunankies)
@@ -26,7 +30,7 @@ For support, contact: [@tunankies](https://t.me/tunankies)
 ## Tiếng Việt
 ### Tính năng
 - Hỗ trợ nhiều tài khoản
-- Tự động claim airdrop
+- Tự động claim point
 - Hỗ trợ proxy
 - Hỗ trợ đa ngôn ngữ (Tiếng Anh/Tiếng Việt)
 
@@ -38,6 +42,10 @@ ip:port:user:pass
 3. Chạy bot:
 ```bash
 interlink.exe
+```
+nếu chạy Linux thì chạy:
+```bash
+./interlink
 ```
 
 ### Hỗ trợ
